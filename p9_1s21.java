@@ -13,7 +13,7 @@ public class p9_1s21{
 		}else if (operacion.equals("Resta")){
 			System.out.println("Haremos una resta");
 		}else {
-			System.out.println("No existe la operacon")
+			System.out.println("No existe la operacion")
 		}
 	}
 }
